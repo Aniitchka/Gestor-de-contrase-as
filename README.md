@@ -1,10 +1,10 @@
-# 🔐 Secure Vault - Gestor de Contraseñas Personal
+# Secure Vault - Gestor de Contraseñas Personal
 
 Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero en Python, implementando estándares de criptografía de grado industrial para garantizar la privacidad absoluta de las credenciales.
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Cifrado Fuerte:** Utiliza **AES-256-GCM** (Cifrado Simétrico Autenticado) para asegurar que los datos no solo estén ocultos, sino protegidos contra cualquier intento de manipulación o alteración externa.
 * **Derivación de Claves:** Implementa **PBKDF2HMAC** con 600,000 iteraciones y un `salt` único para blindar la contraseña maestra frente a ataques de fuerza bruta.
@@ -14,7 +14,7 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 
 ---
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+## Tecnologías y Librerías Utilizadas
 
 * **Python 3.x**
 * `cryptography` — Para las funciones criptográficas y derivación de claves.
@@ -23,7 +23,7 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 
 ---
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 1. Clona este repositorio o descarga los archivos en tu equipo.
 2. Asegúrate de tener Python instalado y ejecuta el siguiente comando en tu terminal para instalar las dependencias necesarias:
