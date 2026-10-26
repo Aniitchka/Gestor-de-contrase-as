@@ -29,3 +29,10 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 2. Asegúrate de tener Python instalado y ejecuta el siguiente comando en tu terminal para instalar las dependencias necesarias:
    ```bash
    pip install cryptography pyperclip
+
+---
+
+## Roadmap / Próximas Mejoras (Futuro)
+[ ] Implementar un temporizador para limpiar el portapapeles automáticamente después de unos segundos.
+[ ] Agregar exportación e importación de respaldos cifrados del baúl.
+[ ] Mejorar el diseño visual con temas personalizados (Modo Oscuro / Claro).
