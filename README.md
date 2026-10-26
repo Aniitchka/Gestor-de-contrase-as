@@ -33,6 +33,9 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 ---
 
 ## Roadmap / Próximas Mejoras (Futuro)
+
 [ ] Implementar un temporizador para limpiar el portapapeles automáticamente después de unos segundos.
+
 [ ] Agregar exportación e importación de respaldos cifrados del baúl.
+
 [ ] Mejorar el diseño visual con temas personalizados (Modo Oscuro / Claro).
