@@ -5,43 +5,20 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 ---
 
 ## Capturas de pantalla
- 
-<table>
+
+<table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/Login.png" width="260" alt="Pantalla de autenticación"/><br/>
-      <sub><b>Autenticación</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/SinPasswords.png" width="260" alt="Pantalla principal vacía"/><br/>
-      <sub><b>Lista de servicios</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/PasswordGuardada.png" width="260" alt="Cuenta guardada"/><br/>
-      <sub><b>Cuenta guardada</b></sub>
-    </td>
+    <td align="center"><img src="screenshots/Login.png" width="240" alt="Autenticación"/><br/><sub><b>Autenticación</b></sub></td>
+    <td align="center"><img src="screenshots/SinPasswords.png" width="240" alt="Lista de servicios"/><br/><sub><b>Lista de servicios</b></sub></td>
+    <td align="center"><img src="screenshots/PasswordGuardada.png" width="240" alt="Cuenta guardada"/><br/><sub><b>Cuenta guardada</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/AgregarCuenta.png" width="260" alt="Agregar o editar servicio"/><br/>
-      <sub><b>Agregar / Editar servicio</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/VerClave.png" width="260" alt="Ver contraseña"/><br/>
-      <sub><b>Ver contraseña</b></sub>
-    </td>
-    <td></td>
+    <td align="center"><img src="screenshots/AgregarCuenta.png" width="240" alt="Agregar / Editar"/><br/><sub><b>Agregar / Editar servicio</b></sub></td>
+    <td align="center"><img src="screenshots/VerClave.png" width="240" alt="Ver contraseña"/><br/><sub><b>Ver contraseña</b></sub></td>
+    <td align="center"><img src="screenshots/Copiado.png" width="240" alt="Portapapeles"/><br/><sub><b>Limpieza del portapapeles</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/Copiado.png" width="260" alt="Copia con limpieza automática"/><br/>
-      <sub><b>Limpieza automática del portapapeles</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/GeneradorRapido.png" width="260" alt="Generador rápido"/><br/>
-      <sub><b>Generador rápido de contraseñas</b></sub>
-    </td>
-    <td></td>
+    <td colspan="3" align="center"><img src="screenshots/GeneradorRapido.png" width="240" alt="Generador rápido"/><br/><sub><b>Generador rápido de contraseñas</b></sub></td>
   </tr>
 </table>
 
@@ -75,7 +52,7 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Aniitchka/Password-Manager.git
+   git clone https://github.com/Aniitchka/Password-manager.git
    cd secure-vault
    ```
 
