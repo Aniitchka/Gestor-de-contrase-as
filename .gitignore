@@ -1,4 +1,32 @@
 vault.json
 salt.bin
+
+# ── Python ──
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Entornos virtuales ──
+.venv/
+venv/
+env/
+ENV/
+
+# ── IDEs y editores ──
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Sistema operativo ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── PyInstaller (empaquetado futuro) ──
+*.spec
