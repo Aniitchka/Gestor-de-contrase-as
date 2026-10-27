@@ -7,6 +7,11 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 ## Capturas
 
 > Pantalla de autenticación con Argon2id activo y pantalla principal con lista de servicios y columna de usuario/email.
+>
+<img width="300" height="232" alt="Screenshot_7" src="https://github.com/user-attachments/assets/7526cbc0-a0b5-4b9b-98c7-8e213bf5468d" />
+<img width="541" height="397" alt="Screenshot_8" src="https://github.com/user-attachments/assets/de3054bd-6a0d-4319-9f24-f4afdd6e2c82" />
+<img width="540" height="397" alt="Screenshot_9" src="https://github.com/user-attachments/assets/71e44966-5a30-4719-8aef-f943314fed04" />
+
 
 ---
 
