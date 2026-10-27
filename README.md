@@ -1,5 +1,11 @@
 # Secure Vault — Gestor de Contraseñas Personal
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/Licencia-MIT-22c55e?style=flat)
+![Crypto](https://img.shields.io/badge/Cifrado-AES--256--GCM-7c3aed?style=flat)
+![KDF](https://img.shields.io/badge/KDF-Argon2id-f97316?style=flat)
+![Platform](https://img.shields.io/badge/Plataforma-Windows%20%7C%20macOS%20%7C%20Linux-64748b?style=flat)
+ 
 Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero en Python, implementando criptografía de grado industrial para garantizar la privacidad absoluta de tus credenciales.
 
 ---
@@ -95,3 +101,9 @@ Un gestor de contraseñas de escritorio seguro, ligero y desarrollado desde cero
 - [ ] Timeout de sesión por inactividad
 - [ ] Modo oscuro / claro intercambiable desde la UI
 - [ ] Empaquetado como `.exe` con PyInstaller para distribución sin Python
+
+---
+ 
+## Licencia
+ 
+Distribuido bajo la licencia MIT. Consulta el archivo [`LICENSE`](LICENSE) para más información.
